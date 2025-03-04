@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+}
+.container {
+    text-align: center;
+    width: auto;
+    height: auto;
+}
+.zaman {
+    text-align: center;
+    background-color: rgb(110, 106, 106);
+    border-radius: 100px;
+    margin-right: 40%;
+    margin-left: 40%;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-style: solid;
+    border-color: black;
+}
+.yazı {
+    margin-top: 50px;
+    text-align: center;
+}
